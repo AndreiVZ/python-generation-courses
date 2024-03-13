@@ -1,1 +1,0 @@
-# python-generation-courses
